@@ -1,8 +1,8 @@
 # Title: 1Hosts (mini)
-# Last modified: 2023-03-04T15:36:45.071Z
+# Last modified: 2023-03-05T04:22:12.120Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 70,794 rules!
+#  |Count: 70,779 rules!
 #  |Size: 1.32 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -3596,6 +3596,7 @@ beeswaxdisplay108801632049.s.moatpixel.com
 beacon.samsclub.com
 apac-jp-sync.bidswitch.net
 dep.hmgroup.com
+riotousunspeakablestreet.com
 childlikeform.com
 et.w.eastus.trafficmanager.inmobi.com
 api.glance.inmobi.com
@@ -7771,7 +7772,6 @@ waufooke.com
 tracking.leadlander.com
 ck.solocpm.com
 altopd.com
-click.mail.hotels.com
 rdi.eu.criteo.com
 ssl-t-online.met.vgwort.de
 rtb-useast.ergadx.com
@@ -8479,6 +8479,7 @@ supercounters.com
 thumbnails.infolinks.com
 smetrics.famousfootwear.com
 batchlogging4-eu.truecaller.com
+ck.getcookiestxt.com
 stat.gamedl.qq.com
 dataapi.ktplay.com
 www.cdn4ads.com
@@ -8720,6 +8721,7 @@ statwup.nimo.tv
 m1.torrenti.al
 restartad.com
 spinnaker-js.com
+analytics.data.visenze.com
 vast-pop-zrh.mathtag.com
 app-sjh.marketo.com
 xadsmart.com
@@ -10604,7 +10606,6 @@ bc2.fivecdm.com
 ox-d.pbhmedia.servedbyopenx.com
 stats.mediaforge.com.edgekey.net
 adscience.nl
-click.e.bbcmail.co.uk
 sprint.asapp.com
 ama.wdr.de
 sdk.api.kaffnet.com
@@ -11773,6 +11774,7 @@ www.rkdms.com
 buy-au.piano.io
 hgbnr.com
 mobpowertech.com
+pwxueuocf.com
 s400.mxcdn.net
 servedby.aqua-adserver.com
 xml.adflyer.media
@@ -15529,7 +15531,6 @@ reviveservers.com
 secretturtle.com
 smetrics.cytivalifesciences.com
 somnit.equinox.com
-swmhdata.stuttgarter-nachrichten.de
 vizzit.se
 web.pages.lloydspharmacy.com
 30f5554dd4.com
@@ -16550,7 +16551,6 @@ runwaff.com
 smetrics.pshpgeorgia.com
 smetrics.truthinitiative.org
 ssc.svoboda.org
-swmhdata.stuttgarter-zeitung.de
 tracdelight.io
 track.dapex-tracking.com
 tunein.adswizz.com
@@ -16769,7 +16769,6 @@ cli.linksynergy.com
 collector.rn.de
 creative.360yield.com
 data-452782981b.geo.de
-data-c2cfe04d43.formel1.de
 marketing.thepalmbeaches.com
 news.valawyersweekly.com
 oms.rogersmedia.com
@@ -17254,7 +17253,6 @@ service.nr-data.net
 smetrics.countryfinancial.com
 smetrics.h-dnet.com
 smetrics.los40.com
-target.publicissapient.com
 track.list-finder.jp
 tracking.schneider.com
 traffic.pinklabel.com
@@ -18068,7 +18066,6 @@ smetrics.murata.com
 sssvd.china.com
 sstats.snowandrock.com
 straightnest.com
-t.osubeavers.com
 webtracking.becker.com
 www.adventori.com
 www.lmlttrack.com
@@ -18155,7 +18152,6 @@ swa.essent.nl
 track.lemmatechnologies.com
 upload.mobpowertech.com
 urchin.lstat.youku.com
-webinars.att.com
 wetr.sportscheck.com
 www2.festo.com
 www91.intel.la
@@ -18873,7 +18869,6 @@ widgets.mozo.com.au
 sit-smetrics.nab.com.au
 newsanalytics.com.au
 pixel.nine.com.au
-metrics.nrma.com.au
 metrics.ntnews.com.au
 smetrics.officeworks.com.au
 track.opentable.com.au
@@ -20479,9 +20474,11 @@ img.ninebox.cn
 p.ninebox.cn
 s.ninebox.cn
 up.ninebox.cn
+nnfeibao.cn
 nrjzkj.cn
 ntfsformac.cn
 www.ntfsformac.cn
+omegabest.cn
 iflyad.bj.openstorage.cn
 openxt.cn
 a1.openxt.cn
@@ -21120,7 +21117,6 @@ c.28rv.com
 2cnjuh34jbstar.com
 3weg314.2conv.com
 ads.2conv.com
-2eb3f134fb.com
 2heaoc.com
 2htg.com
 2iiyrxk0.com
@@ -29272,7 +29268,6 @@ creepingbrings.com
 algo.creepingbrings.com
 crentexgate.com
 crentgate.com
-creofive.com
 cressbeclose.com
 crestfallenwall.com
 cretgate.com
@@ -29933,7 +29928,6 @@ detrimentalunits.com
 sp.detroitnews.com
 deulderby.com
 a.deutschehospitality.com
-f4r.deutschepornos49.com
 rook.deutz-fahramerica.com
 dev2pub.com
 devastateddisarraybackpack.com
@@ -32138,6 +32132,7 @@ lqxjrk.fbs.com
 update.fbsbx.com
 s.update.fbsbx.com
 fb-plus.com
+ads.contents.fc2.com
 counter.fc2.com
 media5.fc2.com
 fc4d74be804f943caa3621b864c54ff0d19c0aca87671ceb51aec5e8.com
@@ -40937,7 +40932,6 @@ marketing.newgenerationins.com
 ads.newgrounds.com
 newir3ltyug79aiman.com
 w020.newmilfordspectrum.com
-steel.newmill.com
 newnns.com
 smetrics.newport.com
 newprofitcontrol.com
@@ -44436,7 +44430,6 @@ pxl.qccerttest.com
 qctnglnhfkhcjue.com
 qctop.com
 qdatasales.com
-qdiwbhjpo.com
 stats.qdq.com
 mtm.qdqmedia.com
 qdrmui.com
@@ -44840,7 +44833,6 @@ www.rebrandsoftware.com
 rebrea.com
 rebrickstowp.com
 rebursteaseful.com
-marketing.recarroll.com
 recedechatprotestant.com
 itpebis03.recella3d.com
 cruntn.receno.com
@@ -51977,7 +51969,6 @@ wap-master.xtgem.com
 sdk.ibm.xtify.com
 sdk1.ibm.xtify.com
 sdk8.ibm.xtify.com
-xtp01.com
 xtrackme.com
 xtrafficads.com
 xtraserp.com
@@ -52736,6 +52727,7 @@ a.888x.cyou
 alenai.cyou
 www.alenai.cyou
 clzw.cyou
+dacyh.cyou
 ibikini.cyou
 quinni.cyou
 www.quinni.cyou
@@ -53240,7 +53232,6 @@ stat.clichehosting.de
 banner.click-tt.de
 4ke5b4ila.codedge.de
 stats.code-it-studio.de
-ads.commonmedia.de
 r1.computerbild.de
 stats.comunio.de
 stat.cooking-conspiracy.de
@@ -56218,7 +56209,6 @@ pay-tm-partner.in
 mail.tropmet.res.in
 rtty.in
 ndl1pp1-a-fixed.sancharnet.in
-shandiankuaixi.in
 smetrics.shopdisney.in
 analytics.spayee.in
 track.thebase.in
@@ -56703,7 +56693,6 @@ auspice.augur.io
 cdn.augur.io
 cdn.avocet.io
 www.avocet.io
-p.barrera.io
 c.bazo.io
 eel.beekeeperstudio.io
 partnerx.bethub.io
@@ -57961,6 +57950,7 @@ adobe.wacoal.jp
 s-adobe.wacoal.jp
 a8clk.cv.warau.jp
 flznib.weblio.jp
+counter.wikiwiki.jp
 a8cv.workman.jp
 banner.worldshopping.jp
 world-ad.jp
@@ -58334,7 +58324,6 @@ sortis.lt
 stats.lt
 dc.stenaline.lt
 track.lt
-9odes.ltd
 gpm.ltd
 adobe.autoscout24.lu
 sadobe.autoscout24.lu
@@ -64921,7 +64910,6 @@ smetrics.nisbets.nl
 exc.ns.nl
 ondermaat.nl
 online-banners.nl
-style.onvz.nl
 track.opentable.nl
 2tty.overstappen.nl
 go.ovsoftware.nl
@@ -65326,7 +65314,6 @@ nsontrackso.online
 joy.ochronus.online
 antitracking.owncast.online
 packsdechicas.online
-www.packsdechicas.online
 padconer.online
 parametre.online
 popunder.online
@@ -65492,7 +65479,6 @@ info.camchealth.org
 stats.carrot2.org
 cart00nies.org
 cartoonies.org
-dmkt.solutions.cas.org
 stats.cascadeinstitute.org
 1080872514.rsc.cdn77.org
 www.cdnondemand.org
@@ -68213,7 +68199,6 @@ javfinder.sb.7mmtv.top
 ssis.7mmtv.top
 asianporn.xyz.7mmtv.top
 7oc5b1i3v4iu.top
-9j5e.top
 9r7i9bo06157.top
 aabproxytests.top
 aabproxytestsdomain.top
@@ -68345,7 +68330,6 @@ punosy.top
 push-notifications.top
 www.push-notifications.top
 pymby.top
-qhapp.top
 qinkuai.top
 refpabuyoj.top
 rggtt.top
@@ -68534,7 +68518,6 @@ itad.linetv.tw
 microad.tw
 bs.url.tw
 www.chienhung.url.tw
-adservice.google.co.tz
 ad.kwanza.co.tz
 tk.airfrance.ua
 pagestat.mmi.bemobile.ua
@@ -70313,6 +70296,7 @@ mzhw.xyz
 mzlas.xyz
 nallytohe.xyz
 nandasmilees.xyz
+nbzabd.xyz
 ncrkff.xyz
 ndbegantoti.xyz
 ndweandthe.xyz
@@ -70660,6 +70644,7 @@ uleringvoice.xyz
 ulukdliketobeparto.xyz
 umentrandings.xyz
 unentsimmends.xyz
+unevwe.xyz
 untusthemailhwe.xyz
 uowfag.xyz
 urswellsgrp.xyz
